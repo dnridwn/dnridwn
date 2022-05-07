@@ -43,3 +43,7 @@
 .vh-100 {
     height: 100vh;
 }
+
+.link-project:hover {
+    color: white !important;
+}

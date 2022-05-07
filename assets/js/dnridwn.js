@@ -1,4 +1,4 @@
-const socmed = document.querySelectorAll(".list-inline-item")
+const socmed = document.querySelectorAll(".social-media-icon")
 
 socmed.forEach((icon) => {
     icon.addEventListener("mouseover", function() {
