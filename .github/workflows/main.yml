@@ -25,6 +25,5 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: 22
           script: |
-            echo $DEBUG_SECRET_KEY >> secrets.txt
             cd /var/www/html/dnridwn
             git pull
