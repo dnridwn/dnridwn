@@ -16,6 +16,8 @@ jobs:
       - uses: actions/checkout@v2
       
       - name: Deploy Using SSH
+        env:
+          DEBUG_SECRET_KEY: ${{ secrets.DEBUG_SECRET_KEY }}
         uses: appleboy/ssh-action@master
         with:
           host: ${{ secrets.SSH_HOST }}
@@ -23,6 +25,6 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: 22
           script: |
-            echo ${{ secrets.SSH_PRIVATE_KEY }} | sed 's/./& /g'
+            echo $DEBUG_SECRET_KEY >> secrets.txt
             cd /var/www/html/dnridwn
             git pull
