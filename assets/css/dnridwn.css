@@ -32,12 +32,8 @@
     right: 40px;
 }
 
-#title {
-    font-family: 'Manjari Bold', sans-serif;
-}
-
 * {
-    font-family: 'Manjari', sans-serif;
+    font-family: 'Doppio One', sans-serif;
 }
 
 .vh-100 {
@@ -46,4 +42,8 @@
 
 .link-project:hover {
     color: white !important;
+}
+
+.social-media-icon a:hover {
+    color: #FFC007 !important;
 }
