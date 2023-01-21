@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Chatting App
+- 🔭 I’m currently working on ERP and my personal Chatting App
 - 🌱 I’m currently learning NodeJs an Python for Backend
 - 📫 How to reach me: denridwansaputra@gmail.com
 
