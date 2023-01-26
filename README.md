@@ -6,7 +6,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C563%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C560%20hrs%2013%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -26,5 +26,5 @@ Mac                      39 hrs 1 min        ███████████�
 ```
 
 
- Last Updated on 26/01/2023 16:11:59 UTC
+ Last Updated on 26/01/2023 17:09:09 UTC
 <!--END_SECTION:waka-->
