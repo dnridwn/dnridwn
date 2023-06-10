@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ERP and my personal chatting app (NChat)
-- 🌱 I’m currently learning NodeJs
+- 🔭 I’m currently working on HRIS, Retail and my personal chatting app
+- 🌱 I’m currently learning Go
 - 📫 How to reach me: denridwansaputra@gmail.com
 
 
