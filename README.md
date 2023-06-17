@@ -5,7 +5,7 @@
 - 📫 How to reach me: denridwansaputra@gmail.com
 
 
-🛠 **Tech Stack**
+### 🛠 Tech Stack
 PHP, Laravel, Javascript, Vue.Js, Typescipt, Angular, Ionic, Go, Python
 
 <!--START_SECTION:waka-->
