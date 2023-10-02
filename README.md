@@ -10,7 +10,7 @@ PHP, Laravel, Javascript, Vue.Js, Typescipt, Angular, Ionic, Go, Python
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C736%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C737%20hrs%204%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -26,5 +26,5 @@ Other                    14 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 01/10/2023 11:31:26 UTC
+ Last Updated on 02/10/2023 11:31:39 UTC
 <!--END_SECTION:waka-->
