@@ -10,7 +10,7 @@ PHP, Laravel, Javascript, Vue.Js, Typescipt, Angular, Ionic, Go, Python
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C064%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C067%20hrs%2052%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -18,13 +18,13 @@ PHP, Laravel, Javascript, Vue.Js, Typescipt, Angular, Ionic, Go, Python
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      8 hrs 43 mins       █████████████░░░░░░░░░░░░   50.99 % 
-HTML                     2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Go                       2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-TypeScript               1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-Blade Template           37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+PHP                      8 hrs 27 mins       █████████████░░░░░░░░░░░░   50.34 % 
+HTML                     2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Go                       2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+TypeScript               1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+Blade Template           37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
- Last Updated on 06/01/2024 11:31:33 UTC
+ Last Updated on 07/01/2024 11:31:17 UTC
 <!--END_SECTION:waka-->
