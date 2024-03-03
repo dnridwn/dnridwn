@@ -6,6 +6,6 @@
 ### 🛠 Tech Stack
 - **Backend:** Go, Python, Laravel
 - **Frontend:** Angular, Vue.js
-- **Database: ** MySQL, PostgreSQL, MongoDB
+- **Database:** MySQL, PostgreSQL, MongoDB
 - **Mobile:** Ionic
-- **Containerization: ** Docker
+- **Containerization:** Docker
