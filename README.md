@@ -5,4 +5,10 @@
 
 
 ### 🛠 Tech Stack
-PHP, Laravel, Javascript, Vue.Js, Typescipt, Angular, Ionic, Go, Python
+- Laravel
+- Vue
+- Angular
+- Ionic Angular (Mobile)
+- Go
+- Python
+- Docker
