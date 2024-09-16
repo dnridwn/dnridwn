@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on HRIS, Retail System, POS System and some my personal projects<br>🌱 I’m currently learning Backend and Cloud Technologies<br>📫 How to reach me denridwansaputra@gmail.com
+🔭 Lifetime learner<br>📫 How to reach me denridwan123@gmail.com
 
 
 ## 🌐 Socials:
